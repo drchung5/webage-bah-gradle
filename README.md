@@ -7,7 +7,7 @@ Execute in root directory with: _gradle bootRun_
 
 By default listens to port: 9001
 
-http://<hostname>:9001/restaurants
+http://_hostname_:9001/restaurants
 
 
 
